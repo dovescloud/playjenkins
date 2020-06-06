@@ -28,7 +28,7 @@ metadata:
   name: doves-nginx
 spec:
   ports:
-  - nodePort: 32223
+  - nodePort: 32220
     port: 80
     protocol: TCP
     targetPort: 80
