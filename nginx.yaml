@@ -28,7 +28,7 @@ metadata:
   name: kube-nginx
 spec:
   ports:
-  - nodePort: 32220
+  - nodePort: 32223
     port: 80
     protocol: TCP
     targetPort: 80
